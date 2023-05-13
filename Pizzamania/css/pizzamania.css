@@ -1,0 +1,26 @@
+.nav-color {
+    background-color: red;
+}
+
+.nav-links {
+    color: white !important;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+#footer {
+    background-color: darkred;
+    height: 80px;
+    width: 1250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+

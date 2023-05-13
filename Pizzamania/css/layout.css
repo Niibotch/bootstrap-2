@@ -1,0 +1,63 @@
+body {
+    background-color: lavender;
+}
+
+.my-class {
+    background-color: greenyellow;
+    border-radius: 10px;
+    color: white;
+}
+
+.footer {
+    background-color: red;
+    height: 150px;
+    border-radius: 10px;
+    border: 2px;
+    border-style: solid;
+    color: white;
+}
+
+.me {
+    background-color: purple;
+    color: gold;
+    border: gold;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.you {
+    background-color: gold;
+    color: purple;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 15px;
+}
+
+div {
+    margin-bottom: 6px;
+}
+
+.nesting1 {
+    background-color: skyblue;
+    color: white;
+    height: 100px;
+
+}
+
+.nesting2 {
+    background-color: greenyellow;
+    color: white;
+    height: 100px;
+
+}
+
+.smallcol {
+    background-color: grey;
+    color: white;
+
+}
+
+.smallcol2 {
+    background-color: orange;
+    color: white;
+}
